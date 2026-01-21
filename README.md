@@ -7,13 +7,29 @@
 # 🚀 Santhush Ekanayake
 ### **Cloud Architect | Full-Stack Engineer | DevOps-Oriented**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhush-ekanayake-606301224)
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthushEk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhushekanayake.official@gmail.com)
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-33CDCC?style=for-the-badge&logo=github&logoColor=white" />
+
+<p align="center">
+  <a href="https://linkedin.com/in/santhush-ekanayake-606301224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SanthushEk"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:santhushekanayake.official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CDCC&center=true&vCenter=true&width=800&lines=Engineering+Reliable+Scalable+Systems;Cloud-Native+Development;Automating+The+Future;Full-Stack+Innovation" />
 
 </div>
+
+---
+
+## 🏆 Milestones & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanthushEk&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="trophies" />
+</p>
+
+- 🏅 **Core Developer:** Successfully launched a production-grade LMS (**MP-CHEM**) utilized by real-world users.
+- 🎖️ **Blockchain Pioneer:** Conceptualized and implemented a **Blockchain-Integrated Healthcare System** for secure patient data.
+- 🎓 **Cloud Scholar:** Completed rigorous AWS Training including **Security, Storage, and Serverless** architectures.
+- 🚀 **Performance Expert:** Optimized the **Visit Sri Lanka** platform for high-speed delivery and modern UX.
 
 ---
 
