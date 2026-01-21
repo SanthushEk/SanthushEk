@@ -22,22 +22,11 @@
 ---
 
 ## 👨‍💻 Professional Profile
-[cite_start]I am a passionate and adaptable **IT undergraduate specializing in Cloud Computing**[cite: 7]. [cite_start]With a strong foundation in **AWS infrastructure**, full-stack development, and system administration [cite: 7, 18][cite_start], I focus on building secure, scalable environments and troubleshooting complex network issues[cite: 8].
+I am a passionate and adaptable IT undergraduate specializing in Cloud Computing. With a strong foundation in AWS infrastructure, full-stack development, and system administration, I focus on building secure, scalable environments and troubleshooting complex network issues.
 
-- [cite_start]🎓 **Education:** Pursuing BSc (Hons) in Cloud Computing at **SLTC Research University** (2021–2025)[cite: 13, 16, 17].
-- [cite_start]💼 **Experience:** Core developer for the **MP-CHEM LMS** during my internship at **Silicon Radon Networks**[cite: 22, 23].
-- [cite_start]🛡️ **Technical Focus:** Cybersecurity, networking, and business analysis[cite: 9].
-
----
-
-## 🏆 Achievements & Volunteering
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanthushEk&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="trophies" />
-</p>
-
-* [cite_start]**Production Impact:** Served as a lead developer for **MP-CHEM**, a real-world LMS built with Laravel and React[cite: 23, 45].
-* [cite_start]**Research:** Collaborated on cloud computing research and co-authored reports with the **Get Sync Club**[cite: 56, 58].
-* [cite_start]**Philanthropy:** Volunteer Coordinator for **Project Warana**, organizing educational support for homeless students[cite: 67, 69].
+- 🎓 **Education:** Pursuing BSc (Hons) in Cloud Computing at SLTC Research University (2021–2025).
+- 💼 **Experience:** Core developer for the MP-CHEM LMS during my internship at Silicon Radon Networks.
+- 🛡️ **Technical Focus:** Cybersecurity, networking, and business analysis.
 
 ---
 
@@ -58,21 +47,21 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 Hospital Management (Cardiology)</h4>
-      <p>A <b>blockchain-integrated</b> system for secure patient record handling[cite: 39, 41]. Built with React.js and Tailwind CSS[cite: 41].</p>
+      <p>A blockchain-integrated system for secure patient record handling. Built with React.js and Tailwind CSS.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🎓 MP-CHEM LMS</h4>
-      <p>Lead developer for a production <b>Learning Management System</b>[cite: 43, 45]. Handled full-stack development and business analysis[cite: 46].</p>
+      <p>Lead developer for a production Learning Management System. Handled full-stack development and business analysis.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 Psyche Platform</h4>
-      <p>Global <b>mental health service</b> deployed on AWS[cite: 31, 33]. Focused on accessibility and high-performance responsive design[cite: 34].</p>
+      <p>Global mental health service deployed on AWS. Focused on accessibility and high-performance responsive design.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🌍 Visit Sri Lanka</h4>
-      <p>Tourism-focused platform optimized for <b>mobile responsiveness</b> and modern UI/UX using React and Tailwind[cite: 35, 37, 38].</p>
+      <p>Tourism-focused platform optimized for mobile responsiveness and modern UI/UX using React and Tailwind.</p>
     </td>
   </tr>
 </table>
@@ -104,9 +93,9 @@
 ---
 
 ## 📜 Certifications
-* [cite_start]**AWS Educate:** Cloud 101, Compute, Storage, Network, Database, Security, Serverless, and Cloud Operations[cite: 51, 52].
-* [cite_start]**FreeCodeCamp:** Responsive Web Design, Front End Libraries, Data Visualization, Relational Databases, and Backend APIs[cite: 48, 49, 50].
-* [cite_start]**University of Moratuwa:** Web Design for Beginners and Front-End Web Development[cite: 53, 54].
+* **AWS Educate:** Cloud 101, Compute, Storage, Network, Database, Security, Serverless, and Cloud Operations.
+* **FreeCodeCamp:** Responsive Web Design, Front End Libraries, Data Visualization, Relational Databases, and Backend APIs.
+* **University of Moratuwa:** Web Design for Beginners and Front-End Web Development.
 
 ---
 
@@ -116,6 +105,6 @@
 **[Portfolio coming soon...]**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=33CDCC&height=2&section=footer" width="100%" />
-<sub>**Santhush Ekanayake** • 2026 Edition • Cloud & Full-Stack Engineer</sub>
+<sub>**Santhush Ekanayake** • 2026 • Cloud | DevOps | Full-Stack Engineer</sub>
 
 </div>
