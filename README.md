@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG_uK70w4H99A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726058097036?e=1742428800&v=beta&t=UvU1G11S4Uo8-v_42Ww6r8L6u3M6V1Y0Yx9V5G_L0zU" width="100%" style="border-radius: 15px;" />
+<img src="CoverImage.jfif" width="100%" style="border-radius: 15px;" />
 
 <br/>
 
