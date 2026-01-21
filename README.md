@@ -1,105 +1,97 @@
 <div align="center">
 
-# 👋 Hi, I'm Santhush Ekanayake  
+<h1>Santhush Ekanayake</h1>
+<h3>Cloud Computing Graduate · Full-Stack Engineer · DevOps-Oriented</h3>
 
-### Cloud Computing Graduate | Full-Stack Engineer | DevOps Enthusiast  
+<p>
+I build secure, scalable, and production-ready systems using modern cloud,
+full-stack, and DevOps practices — focused on performance, automation, and real-world impact.
+</p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/santhush-ekanayake-606301224">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SanthushEk">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:santhushekanayake.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SanthushEk">
+    <img src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=33CDCC&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Cloud+%7C+Full-Stack+%7C+DevOps;Turning+Ideas+Into+Production-Ready+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=33CDCC&center=true&vCenter=true&width=720&lines=Cloud+%7C+Full-Stack+%7C+DevOps;Engineering+Reliable+and+Scalable+Systems;From+Architecture+to+Production" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Professional Summary
 
-I am a **BSc (Hons) Cloud Computing graduate** with hands-on experience in **full-stack development, cloud infrastructure, and DevOps practices**.  
-I specialize in designing **secure, scalable, and production-ready systems** with a strong focus on **real-world impact, automation, and system reliability**.
-
-I have contributed to **enterprise-grade platforms**, academic research projects, and digital transformation initiatives—particularly within **healthcare and education domains**.
+Cloud Computing graduate with hands-on experience in **full-stack development, AWS cloud infrastructure, DevOps workflows, and system security**.  
+I have worked on **production LMS platforms**, **blockchain-enabled healthcare systems**, and **cloud-native academic solutions**, contributing across **development, system design, and business analysis**.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Technology Stack
 
 ### Frontend
-- React.js, Vite  
-- Tailwind CSS  
-- Framer Motion  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,figma" />
+</p>
 
 ### Backend
-- Node.js, Express.js  
-- Laravel  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,java,python" />
+</p>
 
 ### Databases
-- MySQL  
-- MongoDB  
-- PostgreSQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
 ### Cloud & DevOps
-- AWS (EC2, S3, IAM, CloudWatch)  
-- Docker  
-- GitHub Actions  
-
-### Security & Systems
-- JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- Blockchain-based Login (Academic)  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash,powershell" />
+</p>
 
 ### Tools & Practices
-- Git, Postman  
-- Figma, Canva  
-- PowerShell, Bash  
-- Business Analysis & Documentation  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,wordpress" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 Hospital Management System (Cardiology Focus)
-**Academic Project – SLTC Research University**  
-- Blockchain-integrated hospital system for secure patient data handling  
-- Role-based access for doctors, officers, and patients  
-- Tech: React, Tailwind CSS, Node.js, MySQL, Blockchain  
-
-🔗 *Repository available on request*
+### 🏥 Hospital Management System (Cardiology)
+**Blockchain-Integrated | Academic Project**
+- Secure patient record management with role-based access
+- Blockchain-based authentication concept
+- React, Tailwind CSS, Node.js, MySQL
 
 ---
 
 ### 🎓 MP-CHEM Web Application & LMS
-**Internship Project – Silicon Radon Networks (Pvt) Ltd**  
-- Core developer for a production LMS platform  
-- Built full-stack features using Laravel and React  
-- Contributed to business analysis and system planning  
-
-🔗 *Live system used by real users*
+**Full-Stack Developer | Internship**
+- Core developer for a production LMS system
+- Laravel backend, React frontend
+- Business analysis & system documentation involvement
 
 ---
 
-### 🧠 Psyche – Global Mental Health Web Platform
-**Academic Project**  
-- Cloud-based mental health support system  
-- Focused on accessibility, UX, and performance  
-- Tech: React.js, AWS  
+### 🧠 Psyche – Global Mental Health Platform
+**Cloud-Native Web Service**
+- Responsive, accessible mental health platform
+- Deployed using AWS services
+- React.js, AWS
 
 ---
 
-### 🌍 Visit Sri Lanka – Tourism Platform
-**Academic Project**  
-- High-performance tourism website  
-- Responsive UI and optimized loading  
-- Tech: React, Tailwind CSS  
+### 🌍 Visit Sri Lanka Platform
+**Tourism Web Application**
+- High-performance UI with modern UX
+- React + Tailwind CSS
 
 ---
 
@@ -107,8 +99,18 @@ I have contributed to **enterprise-grade platforms**, academic research projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanthushEk&show_icons=true&hide_border=true&theme=transparent" height="160"/>
-<img src="https://streak-stats.demolab.com?user=SanthushEk&hide_border=true&theme=transparent" height="160"/>
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=SanthushEk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="160"
+src="https://github-readme-streak-stats.herokuapp.com?user=SanthushEk&hide_border=true&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthushEk&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -116,18 +118,13 @@ I have contributed to **enterprise-grade platforms**, academic research projects
 
 ## 🎓 Certifications
 
-- **AWS Educate** – Cloud, Compute, Storage, Security, Serverless  
-- **FreeCodeCamp** –  
-  - Responsive Web Design  
-  - Frontend Libraries  
-  - Data Visualization  
-  - Relational Databases  
-  - Backend & APIs  
-- **University of Moratuwa** – Web & Front-End Development  
+- AWS Educate (Cloud, Compute, Storage, Security, Serverless)
+- FreeCodeCamp – Full Curriculum (Frontend → Backend)
+- University of Moratuwa – Web & Front-End Development
 
 ---
 
-## 📫 Contact & Professional Links
+## 📫 Contact
 
 - **Email:** santhushekanayake.official@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/santhush-ekanayake-606301224  
@@ -137,6 +134,6 @@ I have contributed to **enterprise-grade platforms**, academic research projects
 
 <div align="center">
 
-### ⚡ *“Engineering reliable systems that scale with purpose.”*
+**⚡ Engineering systems that scale, secure data, and deliver impact.**
 
 </div>
