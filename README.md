@@ -72,18 +72,23 @@ I am a passionate and adaptable IT undergraduate specializing in Cloud Computing
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SanthushEk&show_icons=true&theme=transparent&title_color=33CDCC&text_color=ffffff&icon_color=33CDCC&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SanthushEk&show_icons=true&theme=transparent&title_color=33CDCC&text_color=ffffff&icon_color=33CDCC&hide_border=true&count_private=true" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthushEk&layout=compact&theme=transparent&title_color=33CDCC&text_color=ffffff&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthushEk&layout=compact&theme=transparent&title_color=33CDCC&text_color=ffffff&hide_border=true&langs_count=8" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SanthushEk&theme=transparent&fire=33CDCC&sideLabels=false&stroke=33CDCC&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthushEk&bg_color=00000000&color=33CDCC&line=33CDCC&point=ffffff&area=true&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
